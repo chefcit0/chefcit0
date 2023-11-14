@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chefcit0
 
-chefcit0/chefcit0 is a ✨ special ✨ repository
+chefcit0/chefcit0 is a ✨ special ✨ chef
 --->
